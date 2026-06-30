@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A Data Scientist cum AI enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)</h3>
+<h3 align="center">A Data Scientist cum AI enthusiast</h3>
 
 <p><img align="right" alt="gif" src="https://github.com/kolhesamiksha/kolhesamiksha/blob/main/img.gif" width="350" height="350" /></p>
 
